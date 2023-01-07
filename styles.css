@@ -1,6 +1,6 @@
 *{
     font-family: 'Work Sans';
-    margin: 0;
+    margin: 0;   
 }
 /* Header styles */
 .header {
@@ -123,7 +123,7 @@
 
 /* Section-3 styles */
 .section3 {
-    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%),url('images/watch.png');
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%),url(images/watch.png);
     margin: 100px 200px;
     padding: 50px;
     background-repeat: no-repeat;
